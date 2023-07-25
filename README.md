@@ -1,4 +1,4 @@
-# careers-website
+# Careers-website
 
 ## Step 1 - Project Setup and Flask Basic 
 ### Create a project on Github
