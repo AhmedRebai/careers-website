@@ -18,6 +18,14 @@
 ### Deploy the project to Render 
 ### Connect a domain with Render deployment
 
+## Step 4 - Functional and Aesthetic Improvements
+### Add a Navbar and Footer from Bootstrap
+### Add mailto: links for the buttons
+### Make the website mobile-friendly (responsive)
+### Refactor templates into reusable components 
+
+
+
 
 
 
@@ -29,3 +37,6 @@
 
 
 CSS Box Model: Content ==> Padding ==> Border ==> Margin
+https://unsplash.com/fr/s/photos/career ==> get free images
+https://excalidraw.com/ ==> for design
+https://www.htmldog.com/guides/html/beginner/images/ ==> good course on html
