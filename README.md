@@ -26,17 +26,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 CSS Box Model: Content ==> Padding ==> Border ==> Margin
 https://unsplash.com/fr/s/photos/career ==> get free images
 https://excalidraw.com/ ==> for design
 https://www.htmldog.com/guides/html/beginner/images/ ==> good course on html
+https://getbootstrap.com/ ==> Bootstrap
