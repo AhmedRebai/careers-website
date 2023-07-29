@@ -7,7 +7,6 @@ certifi==2023.5.7
 cffi==1.15.1
 charset-normalizer==3.2.0
 cleo==0.8.1
-click @ file:///home/runner/careers-website/.cache/pypoetry/artifacts/82/2e/73/6d2281184aee5d72fe8f6cbf7b3d1fc5decc7baef2cd60de391db8136f/click-8.1.6-py3-none-any.whl
 clikit==0.6.2
 crashtest==0.3.1
 cryptography==41.0.2
@@ -59,7 +58,6 @@ requests-toolbelt==0.9.1
 rope==1.1.1
 rpds-py==0.8.11
 SecretStorage==3.3.3
-shellingham @ file:///home/runner/Python/.cache/pypoetry/artifacts/8c/0e/51/d01a4b15127b00e012b2a54373ee522795f6749f7126529602f9483eb8/shellingham-1.5.1-py2.py3-none-any.whl
 six==1.16.0
 toml==0.10.2
 tomli==2.0.1
